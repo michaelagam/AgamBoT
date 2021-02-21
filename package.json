@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "LeviBOT",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelagam/AgamBoT"
+    "url": "git+https://github.com/michaelagam/LeviBOT"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Michael agam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelagam/AgamBoT/issues"
+    "url": "https://github.com/michaelagam/LeviBOT/issues"
   },
-  "homepage": "https://github.com/michaelagam/AgamBoT#readme"
+  "homepage": "https://github.com/michaelagam/LeviBOT#readme"
 }
